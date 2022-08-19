@@ -1,1 +1,1 @@
-4lfa/4lfa.github.io-calculator
+https://4lfa.github.io/react-todolist/
